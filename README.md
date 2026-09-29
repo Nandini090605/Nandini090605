@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Nandini Barik 👋
 
-<!--
-**Nandini090605/Nandini090605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Student | Web Developer | AI & IoT Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an Electronics and Communication Engineering student passionate about technology, web development, Artificial Intelligence and IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 My Portfolio
+
+### 🚀 [View My Personal Portfolio](https://nandini090605.github.io/CodeAlpha_Portfolio/)
+
+Explore my skills, education, projects and technical interests.
+
+---
+
+## 💻 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- C
+- Java
+- Git & GitHub
+- OpenCV
+- AI & Machine Learning
+- IoT
+
+---
+
+## 🔗 Connect With Me
+
+**GitHub:** [Nandini090605](https://github.com/Nandini090605)
+
+**LinkedIn:** [Nandini Barik](https://www.linkedin.com/in/nandini-barik-a0976333a/)
+
+**Email:** [nandinibarik056@gmail.com](mailto:nandinibarik056@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
