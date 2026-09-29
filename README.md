@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an Electronics and Communication Engineering s
 
 ## 🌐 My Portfolio
 
-### 🚀 [View My Personal Portfolio](https://nandini090605.github.io/CodeAlpha_Portfolio/)
+### 🚀 [View My Personal Portfolio](https://nandini090605.github.io/Nandini-Portfolio/)
 
 Explore my skills, education, projects and technical interests.
 
@@ -35,7 +35,7 @@ Explore my skills, education, projects and technical interests.
 [View Project](https://github.com/dishadas5159/AI-Financial-Advisor)
 
 ### 🖼️ Responsive Image Gallery
-[View Project](https://github.com/Nandini090605/CodeAlpha_ImageGallery)
+[View Project](https://github.com/Nandini090605/ImageGallery)
 
 ### 🧮 Calculator
 [View Project](https://github.com/Nandini090605/Calculator)
